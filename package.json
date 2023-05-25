@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/grocery-store-online/",
+    "build": "vite build --base=/html-css_87_-gWake3007/",
     "preview": "vite preview"
   },
   "devDependencies": {
